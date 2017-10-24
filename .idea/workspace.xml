@@ -1,7 +1,547 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16c736c8-6b05-469a-a1be-d33cad568425" name="Default" comment="" />
+    <list default="true" id="16c736c8-6b05-469a-a1be-d33cad568425" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/SiteSamples.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Paul-Albuquerque-Dev-Org.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/appMenus/Salesforce1.appMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/Developer.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__AppLauncher.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Chatter.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Community.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Content.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__LightningSales.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__LightningSalesConsole.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__LightningService.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Marketing.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Platform.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Sales.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Service.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__ServiceConsole.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/standard__Sites.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignmentRules/Case.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignmentRules/Lead.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPassword.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPassword.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPassword.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPassword.design" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPasswordController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/forgotPassword/forgotPasswordHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginForm.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginForm.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginForm.design" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginFormController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/loginForm/loginFormHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegister.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegister.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegister.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegister.design" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegisterController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/selfRegister/selfRegisterHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/setStartUrl/setStartUrl.evt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aura/setStartUrl/setStartUrl.evt-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/authproviders/LightningForGmail.authprovider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/autoResponseRules/Case.autoResponseRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/autoResponseRules/Lead.autoResponseRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/certs/SelfSignedCert_28Apr2017_114039.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/certs/SelfSignedCert_28Apr2017_114039.crt-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/certs/salesforce_lightning_salesforce_181016_iam_gserviceaccount_com1506357751294.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/certs/salesforce_lightning_salesforce_181016_iam_gserviceaccount_com1506357751294.crt-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cleanDataServices/DataCloudGeoLocation.cleanDataService" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/communities/Internal Zone.community" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteFooter.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteFooter.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteHeader.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteHeader.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteLogin.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SiteLogin.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SitePoweredBy.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SitePoweredBy.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectedApps/REST_App.connectedApp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contentassets/P_white_logo.asset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contentassets/P_white_logo.asset-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/duplicateRules/Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads.duplicateRule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/duplicateRules/Lead.Standard_Rule_for_Leads_with_Duplicate_Contacts.duplicateRule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/escalationRules/Case.escalationRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/flexipages/Developer_Sales_UtilityBar.flexipage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/flexipages/LightningSalesConsole_UtilityBar.flexipage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/flexipages/LightningService_UtilityBar.flexipage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/homePageLayouts/DE Default.homePageLayout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/installedPackages/sf_chttr_apps.installedPackage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/installedPackages/sf_com_apps.installedPackage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/installedPackages/sfadminapps.installedPackage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/labels/CustomLabels.labels" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Account-Account %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Account-Account Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Account-Developer Accounts.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Asset-Asset Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Campaign-Campaign Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/CampaignMember-Campaign Member Page Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Case-Case %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Case-Case Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/CaseClose-Close Case Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/ChannelProgram-Channel Program Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/ChannelProgramLevel-Channel Program Level Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/ChannelProgramMember-Channel Program Member Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Contact-Contact Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/ContentVersion-Content Version Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Contract-Contract Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/DandBCompany-D%26B Company Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/DuplicateRecordSet-Duplicate Record Set Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/EmailMessage-Email Message Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Event-Event Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/FeedItem-Feed Item Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Global-Global Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Goal-Goal Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/GoalLink-Goal Link Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Idea-Idea Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/JobTracker-Job Tracker Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/JobTracker-Job Tracker Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/JobTracker-Job Tracker Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Lead-Lead Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Lead-Salesforce Lead Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Macro-Macro Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Metric-Completion Metric Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Metric-Metric Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/MetricDataLink-Metric Data Link Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Developer Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Opportunity-Opportunity Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/OpportunityLineItem-Opportunity Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Order-Order Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/OrderItem-Order Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/PartnerFundAllocation-Partner Fund Allocation Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/PartnerFundClaim-Partner Fund Claim Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/PartnerFundRequest-Partner Fund Request Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/PartnerMarketingBudget-Partner Marketing Budget Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Pricebook2-Price Book Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/PricebookEntry-Price Book Entry Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Product2-Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Project__c-Assignment Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Salesforce_Org__c-Salesforce Org Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Scorecard-Scorecard Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/ScorecardMetric-Scorecard Metric Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/SocialPersona-Social Persona Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/SocialPost-Social Post Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Solution-Solution Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Task-Job Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Task-Task Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/User-User Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/UserAlt-User Profile Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/UserProvAccount-User Provisioning Account Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/UserProvisioningLog-User Provisioning Log Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/UserProvisioningRequest-User Provisioning Request Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/Weight__c-Weight Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkCoaching-Coaching Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedback-Feedback Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedback-Feedback Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedback-Feedback Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestion-Feedback Question Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestion-Feedback Question Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestion-Feedback Question Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestionSet-Feedback Question Set Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestionSet-Feedback Question Set Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackQuestionSet-Feedback Question Set Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackRequest-Feedback Request Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackRequest-Feedback Request Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackRequest-Feedback Request Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkFeedbackTemplate-Feedback Template Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkPerformanceCycle-Performance Cycle Layout - Summer %2715.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkPerformanceCycle-Performance Cycle Layout - Winter %2716.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/WorkPerformanceCycle-Performance Cycle Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/letterhead/Dev.letter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managedTopics/Test Community.managedTopics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/matchingRules/Account.matchingRule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/matchingRules/Contact.matchingRule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/matchingRules/Lead.matchingRule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/moderation/Test Community.Block_banned_keywords.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/moderation/Test Community.Flag_banned.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/moderation/Test Community.Freeze_for_frequent_posting.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/moderation/Test Community.Replace_banned.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/moderation/Test Community.Review_the_first_post.rule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/networkBranding/cbTest_Community.networkBranding" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/networkBranding/cbTest_Community.networkBranding-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/networks/Test Community.network" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objectTranslations/Project__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objectTranslations/Salesforce_Org__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objectTranslations/Weight__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objects/Project__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objects/Salesforce_Org__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/objects/Weight__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/AnswersHome.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/AnswersHome.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/BandwidthExceeded.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/BandwidthExceeded.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ChangePassword.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ChangePassword.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesLanding.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesLanding.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesLogin.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesLogin.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesSelfReg.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesSelfReg.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesSelfRegConfirm.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesSelfRegConfirm.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesTemplate.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/CommunitiesTemplate.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Exception.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Exception.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/FileNotFound.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/FileNotFound.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ForgotPassword.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ForgotPassword.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ForgotPasswordConfirm.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/ForgotPasswordConfirm.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/IdeasHome.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/IdeasHome.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/InMaintenance.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/InMaintenance.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/MyProfilePage.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/MyProfilePage.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteLogin.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteLogin.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteRegister.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteRegister.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteRegisterConfirm.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteRegisterConfirm.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteTemplate.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/SiteTemplate.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/StdExceptionTemplate.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/StdExceptionTemplate.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Unauthorized.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Unauthorized.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/UnderConstruction.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/UnderConstruction.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Admin.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/ContractManager.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/External Identity User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Guest.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Identity User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Standard.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/StandardAul.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Test Community Profile.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Case.NewChildCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/CollaborationGroup.NewGroupMember.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/CollaborationGroup.NewGroupRecord.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/FeedItem.NewTaskFromFeedItem.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/LogACall.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewAccount.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewContact.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewEvent.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewGroup.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewLead.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewNote.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewOpportunity.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/NewTask.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/SendEmail.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.Defer.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.Defer_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.EditDescription.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.EditDescription_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdatePriority.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdatePriority_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdateStatus.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Task.UpdateStatus_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/quickActions/Todays_Weight.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remoteSiteSettings/ApexDevNet.remoteSite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remoteSiteSettings/Google_API.remoteSite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remoteSiteSettings/SOAP_Service.remoteSite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remoteSiteSettings/animals_http.remoteSite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remoteSiteSettings/animals_soap.remoteSite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reportTypes/Accounts_with_Projects_with_Jobs.reportType" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reportTypes/Accounts_with_Proposals_with_Projects.reportType" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reportTypes/Accounts_with_Proposals_with_Projects_with_Jobs.reportType" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/CEO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/CFO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/COO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/ChannelSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/CustomerSupportInternational.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/CustomerSupportNorthAmerica.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/DirectorChannelSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/DirectorDirectSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/EasternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/InstallationRepairServices.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/MarketingTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/SVPCustomerServiceSupport.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/SVPHumanResources.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/SVPSalesMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/VPInternationalSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/VPMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/VPNorthAmericanSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roles/WesternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Account.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Activities.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Address.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/BusinessHours.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Case.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Company.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Contract.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Entitlement.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/FieldService.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/FileUploadAndDownloadSecurity.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Forecasting.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Ideas.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Knowledge.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/LiveAgent.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Macro.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Mobile.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Name.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Opportunity.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Order.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/OrgPreference.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/PathAssistant.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/PersonalJourney.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Product.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Quote.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Search.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/settings/Security.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Account.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Asset.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Campaign.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Case.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Contact.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Lead.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Opportunity.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Order.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Project__c.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/User.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sharingRules/Weight__c.sharingRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/siteDotComSites/Test_Community1.site" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/siteDotComSites/Test_Community1.site-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sites/Test_Community.site" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/GetAnimalIdResource.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/GetAnimalIdResource.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/GetAnimalResource.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/GetAnimalResource.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticresources/SiteSamples.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tabs/Project__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tabs/Salesforce_Org__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tabs/Weight__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Account.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Asset.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Campaign.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Case.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/ChannelProgram.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/ChannelProgramLevel.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Contact.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/ContentDocument.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Contract.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Event.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Lead.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Opportunity.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Order.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/PartnerFundAllocation.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/PartnerFundClaim.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/PartnerFundRequest.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/PartnerMarketingBudget.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Project__c.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Salesforce_Org__c.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Solution.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Task.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topicsForObjects/Weight__c.topicsForObjects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AccountAddressTrigger.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AccountAddressTrigger.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AccountDeletion.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AccountDeletion.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AddRelatedRecord.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/AddRelatedRecord.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/ClosedOpportunityTrigger.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/ClosedOpportunityTrigger.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/RestrictContactByName.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/triggers/RestrictContactByName.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userCriteria/Test Community.Customer_Members.userCriteria" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userCriteria/Test Community.Members_without_contribution.userCriteria" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userCriteria/Test Community.Partner_and_Customer_members.userCriteria" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IlluminatedCloud/Paul_Albuquerque_Dev_Org/OfflineSymbolTable.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountHandler.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountHandler.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountManager.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountManager.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountManagerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountManagerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessor.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessor.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessorTestSetup.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AccountProcessorTestSetup.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AddPrimaryContact.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AddPrimaryContact.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AddPrimaryContactTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AddPrimaryContactTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocator.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocator.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocatorMock.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocatorMock.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocatorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalLocatorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCallout.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCallout.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCallouts.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCallouts.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCalloutsTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsCalloutsTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsHttpCalloutMock.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AnimalsHttpCalloutMock.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncCalculatorServices.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncCalculatorServices.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncParkService.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncParkService.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncParkServices.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AsyncParkServices.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AwesomeCalculator.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AwesomeCalculator.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AwesomeCalculatorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/AwesomeCalculatorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CalculatorCalloutMock.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CalculatorCalloutMock.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CaseManager.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CaseManager.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CaseManagerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CaseManagerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ChangePasswordController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ChangePasswordController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ChangePasswordControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ChangePasswordControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLandingController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLandingController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLandingControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLandingControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLoginController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLoginController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLoginControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesLoginControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegConfirmController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegConfirmController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegConfirmControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/CommunitiesSelfRegControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ContactAndLeadSearch.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ContactAndLeadSearch.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ContactSearch.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ContactSearch.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/DailyLeadProcessor.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/DailyLeadProcessor.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/DailyLeadProcessorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/DailyLeadProcessorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ForgotPasswordController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ForgotPasswordController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ForgotPasswordControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ForgotPasswordControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LeadProcessor.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LeadProcessor.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LeadProcessorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LeadProcessorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningForgotPasswordController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningForgotPasswordController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningForgotPasswordControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningForgotPasswordControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningLoginFormController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningLoginFormController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningLoginFormControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningLoginFormControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningSelfRegisterController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningSelfRegisterController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningSelfRegisterControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/LightningSelfRegisterControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyProfilePageController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyProfilePageController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyProfilePageControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyProfilePageControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyRestResource.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/MyRestResource.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkLocator.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkLocator.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkLocatorTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkLocatorTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkService.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkService.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkServiceMock.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/ParkServiceMock.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/RandomContactFactory.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/RandomContactFactory.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteLoginController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteLoginController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteLoginControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteLoginControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteRegisterController.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteRegisterController.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteRegisterControllerTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/SiteRegisterControllerTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/StringArrayTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/StringArrayTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TemperatureConverter.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TemperatureConverter.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TemperatureConverterTest.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TemperatureConverterTest.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestAccountDeletion.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestAccountDeletion.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestApex.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestApex.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestDataFactory.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestDataFactory.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestRestrictContactByName.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestRestrictContactByName.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestVerifyDate.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/TestVerifyDate.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/VerifyDate.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/VerifyDate.cls-meta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/calculatorServices.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classes/calculatorServices.cls-meta.xml" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,18 +552,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="illuminatedCloud.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/illuminatedCloud.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
@@ -52,6 +581,117 @@
           <AnonymousApexSettings>
             <option name="connectionName" value="Paul-Albuquerque-Dev-Org" />
           </AnonymousApexSettings>
+        </option>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="Paul-Albuquerque-Dev-Org">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="lastBuildScope" value="CONTEXT" />
+                  <option name="lastBuildViewToggles">
+                    <map>
+                      <entry key="DELETE">
+                        <value>
+                          <BuildViewToggles>
+                            <option name="showLocalAndServer" value="true" />
+                            <option name="showLocalOnly" value="false" />
+                            <option name="showServerOnly" value="true" />
+                            <option name="showSubscribedOnly" value="true" />
+                          </BuildViewToggles>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="metadataContents">
+          <map>
+            <entry key="Paul-Albuquerque-Dev-Org">
+              <value>
+                <MetadataContents>
+                  <option name="lastPopulated" value="1508851631854" />
+                  <option name="metadataTypes">
+                    <set>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Document" />
+                            <option value="PushTopic" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObject" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="AccountContactMultiRoles" />
+                            <option value="AccountContactRole" />
+                            <option value="AccountOwnership" />
+                            <option value="AccountRating" />
+                            <option value="AccountType" />
+                            <option value="AssetStatus" />
+                            <option value="CampaignMemberStatus" />
+                            <option value="CampaignStatus" />
+                            <option value="CampaignType" />
+                            <option value="CaseContactRole" />
+                            <option value="CaseOrigin" />
+                            <option value="CasePriority" />
+                            <option value="CaseReason" />
+                            <option value="CaseStatus" />
+                            <option value="CaseType" />
+                            <option value="ContactRole" />
+                            <option value="ContractContactRole" />
+                            <option value="ContractStatus" />
+                            <option value="EntitlementType" />
+                            <option value="EventSubject" />
+                            <option value="EventType" />
+                            <option value="FiscalYearPeriodName" />
+                            <option value="FiscalYearPeriodPrefix" />
+                            <option value="FiscalYearQuarterName" />
+                            <option value="FiscalYearQuarterPrefix" />
+                            <option value="IdeaMultiCategory" />
+                            <option value="IdeaStatus" />
+                            <option value="IdeaThemeStatus" />
+                            <option value="Industry" />
+                            <option value="LeadSource" />
+                            <option value="LeadStatus" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="OpportunityStage" />
+                            <option value="OpportunityType" />
+                            <option value="OrderType" />
+                            <option value="PartnerRole" />
+                            <option value="Product2Family" />
+                            <option value="QuickTextCategory" />
+                            <option value="QuickTextChannel" />
+                            <option value="QuoteStatus" />
+                            <option value="RoleInTerritory2" />
+                            <option value="SalesTeamRole" />
+                            <option value="Salutation" />
+                            <option value="ServiceContractApprovalStatus" />
+                            <option value="SocialPostClassification" />
+                            <option value="SocialPostEngagementLevel" />
+                            <option value="SocialPostReviewedStatus" />
+                            <option value="SolutionStatus" />
+                            <option value="TaskPriority" />
+                            <option value="TaskStatus" />
+                            <option value="TaskSubject" />
+                            <option value="TaskType" />
+                            <option value="WorkOrderLineItemStatus" />
+                            <option value="WorkOrderPriority" />
+                            <option value="WorkOrderStatus" />
+                          </set>
+                        </option>
+                        <option name="name" value="StandardValueSet" />
+                      </MetadataType>
+                    </set>
+                  </option>
+                </MetadataContents>
+              </value>
+            </entry>
+          </map>
         </option>
       </ProjectWorkspaceSettings>
     </option>
@@ -106,6 +746,9 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,6 +803,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Paul-Albuquerque-Dev-Org" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -227,7 +882,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508853828385</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="workspace xml">
+      <created>1508854904907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508854904907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -244,18 +906,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32395834" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32395834" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Anonymous Apex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32395834" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32395834" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SOQL Query" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Log Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -268,7 +931,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -306,9 +968,12 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <ignored-roots>
       <path value="C:\Users\palbu\IdeaProjects\Paul-Albuquerque-Dev-Org\main-dev-org" />
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="workspace xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -317,11 +982,86 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/illuminatedCloud.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="312">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Illuminated Cloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IlluminatedCloud (Apex Specialist Super Badge/Apex Specialist Super Badge)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Paul-Albuquerque-Dev-Org</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
