@@ -1,1 +1,0 @@
-{"animal":[{"id":1,"name":"Chicken","eats":"Grain","says":"Cluck"},{"id":2,"name":"Dog","eats":"Chicken","says":"Woof"}]}
